@@ -1,2 +1,2 @@
-#Mi Proyecto \n
-Proyecto de practica para aprendwer git
+#Mi Proyecto
+#Proyecto de practica para aprendwer git
